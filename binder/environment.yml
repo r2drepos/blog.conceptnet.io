@@ -1,0 +1,11 @@
+name: conceptnet_blog
+channels:
+ - conda-forge
+dependencies:
+  - python=3.6
+  - seaborn
+  - pandas
+  - numpy 
+  - matplotlib 
+  - statsmodels
+  - scikit-learn
